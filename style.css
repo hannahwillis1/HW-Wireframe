@@ -91,6 +91,7 @@ float: left;
 margin: 25px 25px 25px 25px;
 z-index:3;
 text-align: center;
+font-weight: bold;
 }
 
 #d {
@@ -102,6 +103,7 @@ text-align: center;
     right: 5%;
     float: center;
     z-index:3;
+    font-weight: normal;
 }
 
 .section4 {
